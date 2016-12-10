@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>joelbryan.juliano@gmail.com</string>
+	<key>contactName</key>
+	<string>jjuliano</string>
+	<key>description</key>
+	<string>rails_best_practices bundle for TextMate 2.</string>
+	<key>name</key>
+	<string>RailsBestPractices</string>
+	<key>uuid</key>
+	<string>99939C07-F073-40EB-9A45-C88E6FF3DDD5</string>
+</dict>
+</plist>

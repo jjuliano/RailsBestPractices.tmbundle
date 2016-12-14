@@ -10,7 +10,7 @@ Install
 
 Make sure $TM_RUBY is set to current ruby directory, then:
 
-    gem install scss_lint
+    gem install rails_best_practices
     mkdir -p ~/Library/Application\ Support/TextMate/Bundles
     cd ~/Library/Application\ Support/TextMate/Bundles
     git clone https://github.com/jjuliano/RailsBestPractices.tmbundle.git
